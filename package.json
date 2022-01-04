@@ -1,7 +1,7 @@
 {
-  "name": "privvadrive-node-server-test-moyo",
+  "name": "rapyd integration",
   "version": "1.0.0",
-  "description": "Privvadrive Node Server Test",
+  "description": "rapyd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/privadrive/privvadrive-node-server-test-moyo.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/privadrive/privvadrive-node-server-test-moyo/issues"
+    "url": ""
   },
-  "homepage": "https://gitlab.com/privadrive/privvadrive-node-server-test-moyo#readme",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.21.1",
     "cors": "^2.8.5",
