@@ -1,0 +1,5 @@
+customerid status SUCCESS
+customerid ewallet ewallet_c973652c7c980afa2f3bac1bc43035c3
+
+wallet SUCCESS
+wallet ewallet_c973652c7c980afa2f3bac1bc43035c3
